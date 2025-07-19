@@ -23,16 +23,16 @@ Hi, I’m **Brajraz Mishra**, a passionate full-stack developer currently workin
 
 <h3 align="center">📬 Let's Connect!</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/brajraj-mishra-aa4095256/" target="blank">
+  <a href="https://www.linkedin.com/in/brajraj-mishra-aa4095256/" target="_blank" rel="noopener noreferrer" >
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/_raj_mishra/" target="blank">
+  <a href="https://leetcode.com/u/_raj_mishra/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/brajrazmishra001/" target="blank">
+  <a href="https://www.geeksforgeeks.org/user/brajrazmishra001/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
-  <a href="mailto:brajrazmishra001@gmail.com" target="blank">
+  <a href="mailto:brajrazmishra001@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
