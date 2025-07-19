@@ -32,7 +32,7 @@ Hi, I’m **Brajraz Mishra**, a passionate full-stack developer currently workin
   <a href="https://www.geeksforgeeks.org/user/brajrazmishra001/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
-  <a href="mailto:brajrazmishra001@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=brajrazmishra001@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
